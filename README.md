@@ -13,7 +13,7 @@
 
 ## 📌 Project Overview
 This project predicts house prices using **Linear Regression** based on features like area, bedrooms, bathrooms, and other property details.  
-It demonstrates a complete **machine learning workflow** from data preprocessing to model evaluation.
+It demonstrates a complete **machine learning workflow** from data preprocessing to model evaluation. 
 
 ---
 
